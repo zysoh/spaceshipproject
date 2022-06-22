@@ -1,5 +1,5 @@
 # Spaceship Classification Project
-The objective of this project is to make predictions as to whether or that members of a spaceship were teleported into another dimension. My workflow can be seperated into the following sections:
+The objective of this project is to make predictions as to whether members of a spaceship were teleported into another dimension. My workflow can be seperated into the following sections:
 
 ## Exploratory Data Analysis
 - Investigate basic dataset information, distribution, missing values, data types etc.
